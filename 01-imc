@@ -1,0 +1,4 @@
+const p = 76;
+const a = 1.79;
+
+console.log((p / a ** 2).toFixed(1));
